@@ -1,0 +1,48 @@
+{
+    "yasmincooper_ofc": {
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc01IG.pkl",
+        "username": "yasmincooper_ofc"
+    },
+    "YyasmincooperR" : {
+        "cookieGNRFile": "./filebase/gnrManager/gnr.pkl",
+        "cookieIGFile": "./filebase/gnrManager/acc01IG.pkl",
+        "username": "yasmincooper_ofc"
+    },
+
+    "yasminlucena_off": {
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc02IG.pkl",
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "username": "yasminlucena_off"
+    },
+    "mariayasmin_off": {
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc03IG.pkl",
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "username": "mariayasmin_off"
+    },
+    "mariaclaudia_off": {
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc04IG.pkl",
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "username": "mariaclaudia_off"
+    },
+    "annacarla_of": {
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc05IG.pkl",
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "username": "annacarla_of"
+    },
+    "mariaquiteria_ofv": {
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc06IG.pkl",
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "username": "mariaquiteria_ofv"
+    },
+    "carlosmanoel_off": {
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc07IG.pkl",
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "username": "carlosmanoel_off"
+    },
+    "luizinho.ofv": {
+        "cookieIGFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/acc08IG.pkl",
+        "cookieGNRFile": "C:/Users/alanf/OneDrive/\u00c1rea de Trabalho/gnr-bot/system/cookies/gnr.pkl",
+        "username": "luizinho.ofv"
+    }
+}
